@@ -11,7 +11,7 @@ into your images.  (R : 179 G : 186 B: 216)
 
 You picture also need to be small, like pixel art small. (The Rattata I use for my example is 18 x 21 pixels)
 
-##Example
+## Example
 
 ![enter image description here](https://i.imgur.com/MmykaSG.png)
 
@@ -19,7 +19,7 @@ Result
 
 ![enter image description here](https://i.imgur.com/hgZGIce.png)
 
-##Requirement
+## Requirement
 Windows 10 Anniversay Update:
 
 You need to have the 256 colors enable, to do so, you simply need to add this to your program.cs

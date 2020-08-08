@@ -1,7 +1,7 @@
 ## Description
-This is my Images to C# Console converter. Right now, It only support PNG files.
+This is my Images to C# Console converter. Support PNG, JPG, BMP and GIF.
 ## How to use it
-It's pretty simple, you only have to depose the PNG files into "Images" and execute the application.
+It's pretty simple, you only have to depose the image files into "Images" and execute the application.
 
 Once the Console close, check in the "Output" folder and there will be two or mores (depending at how many pictures you
 inserted into the folder) text files containing the Console.WriteLine commands. Just copy paste anywhere you want.
